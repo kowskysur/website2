@@ -6,7 +6,7 @@ p.s. gh-pages rock!
 Este es un nuevo parrafo
 este no es un nuevo parrafo
 
-##estos es un subtitulo
+## estos es un subtitulo
 
 List:
 -hola
